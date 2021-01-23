@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+
+p {
+  font-size: 4rem;
+  padding-top: 7rem;
+  color: white;
+  font-family: sans-serif;
+}
